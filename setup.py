@@ -88,7 +88,7 @@ setuptools.setup(
         'raven==6.9.0',
         'rednose>=1.3.0,<2',
         'redis==2.10.6',
-        'requests==2.19.1',
+        'requests==2.31.0',
         'requests-futures==0.9.7',
         'requests-toolbelt==0.8.0',
         'retrying==1.3.3',
